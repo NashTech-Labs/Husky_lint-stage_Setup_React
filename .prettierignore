@@ -1,0 +1,21 @@
+# Ignore custom folders
+/helm/
+/coverage/
+
+# Ignore node folders
+/node_modules/
+
+# Ignore build and output folders
+/build/
+/out/
+/dist/
+/public/
+
+# Ignore specific files
+.gitignore
+.next/
+next-env.d.ts
+package-lock.json
+
+# Ignore log files
+/logs/
